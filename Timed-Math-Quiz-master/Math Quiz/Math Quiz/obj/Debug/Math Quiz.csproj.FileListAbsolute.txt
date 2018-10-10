@@ -1,0 +1,9 @@
+D:\_data\Downloads\Timed-Math-Quiz-master\Timed-Math-Quiz-master\Math Quiz\Math Quiz\bin\Debug\Math Quiz.exe.config
+D:\_data\Downloads\Timed-Math-Quiz-master\Timed-Math-Quiz-master\Math Quiz\Math Quiz\bin\Debug\Math Quiz.exe
+D:\_data\Downloads\Timed-Math-Quiz-master\Timed-Math-Quiz-master\Math Quiz\Math Quiz\bin\Debug\Math Quiz.pdb
+D:\_data\Downloads\Timed-Math-Quiz-master\Timed-Math-Quiz-master\Math Quiz\Math Quiz\obj\Debug\Math Quiz.csprojResolveAssemblyReference.cache
+D:\_data\Downloads\Timed-Math-Quiz-master\Timed-Math-Quiz-master\Math Quiz\Math Quiz\obj\Debug\Math_Quiz.Form1.resources
+D:\_data\Downloads\Timed-Math-Quiz-master\Timed-Math-Quiz-master\Math Quiz\Math Quiz\obj\Debug\Math_Quiz.Properties.Resources.resources
+D:\_data\Downloads\Timed-Math-Quiz-master\Timed-Math-Quiz-master\Math Quiz\Math Quiz\obj\Debug\Math Quiz.csproj.GenerateResource.Cache
+D:\_data\Downloads\Timed-Math-Quiz-master\Timed-Math-Quiz-master\Math Quiz\Math Quiz\obj\Debug\Math Quiz.exe
+D:\_data\Downloads\Timed-Math-Quiz-master\Timed-Math-Quiz-master\Math Quiz\Math Quiz\obj\Debug\Math Quiz.pdb
